@@ -1,6 +1,5 @@
 # MaternaFlow
 
-<<<<<<< HEAD
 Agentic maternal care coordination system for Nigerian 
 teaching hospitals built on UiPath Automation Cloud.
 
