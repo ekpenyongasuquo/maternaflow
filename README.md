@@ -116,7 +116,3 @@ uvicorn main:app --reload
 
 Claude Code (via Claude, Anthropic) was used throughout development to design and extend the CliniqBridge FHIR integration layer, including adding the `get_observations` and `create_observation` tools used by Stages 3 and 5 of the workflow.
 
-## License
-
->>>>>>> de051c0 (Add complete honest README documenting MaternaFlow scope and limitations)
-MIT
