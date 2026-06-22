@@ -19,6 +19,17 @@ critical decision points.
 - UiPath API Workflows
 - UiPath Orchestrator
 
+  ## Agent Type
+
+This solution utilizes **Low-code Agents** built through UiPath Studio 
+Web (Agentic Process with Autopilot-assisted BPMN generation) combined 
+with **API Workflow integrations** connecting to CliniqBridge, an 
+externally coded FHIR agent built in Python/FastAPI.
+
+The solution therefore combines:
+- Low-code agents: UiPath Maestro BPMN process with Autopilot
+- Coded external agent: CliniqBridge (Python/FastAPI/MCP server)
+
 ## External Services
 - CliniqBridge FHIR API (https://cliniqbridge.onrender.com)
 - HAPI FHIR R4 Server
